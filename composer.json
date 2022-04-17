@@ -1,0 +1,17 @@
+{
+    "name": "alaedine.marzougui/myapp",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alaeddine Dev",
+            "email": "alaeddine.marzougui@esprit.tn"
+        }
+    ],
+    "require": {}
+}
